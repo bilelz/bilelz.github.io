@@ -1,2 +1,2 @@
 # bilelz.github.io
-redirecti to bilelz.github.io /www
+redirecting to bilelz.github.io /www
